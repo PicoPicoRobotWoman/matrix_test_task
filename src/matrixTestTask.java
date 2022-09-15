@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class matrix_test_task {
+public class matrixTestTask {
 
     public static void main(String[] args) {
 
